@@ -1,8 +1,12 @@
   These are sample CGI scripts and webpages for tinyhttpd.  They can
 be redistributed under the terms of the GPL.
+  这些是 tinyhttpd 的示例 CGI 脚本和网页。它们可以在 GPL 条款下重新分发。
 
   The most impressive demonstration I gave of tinyhttpd to my
 professor and my classmates was to load color.cgi with a value of
 "chartreuse." :)  It's actually a very simple script, guys.
+  我向教授和同学们展示 tinyhttpd 时最令人印象深刻的演示，
+是用 "chartreuse"（黄绿色）作为参数加载 color.cgi。:)
+这实际上是一个非常简单的脚本，伙计们。
 
 jdb
